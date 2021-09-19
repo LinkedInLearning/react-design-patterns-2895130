@@ -1,11 +1,6 @@
-import { CurrentUserLoader } from './CurrentUserLoader';
-import { UserInfo } from './UserInfo';
-
 function App() {
 	return (
-		<CurrentUserLoader>
-			<UserInfo />
-		</CurrentUserLoader>
+		<h1>Your code goes here</h1>
 	);
 }
 
