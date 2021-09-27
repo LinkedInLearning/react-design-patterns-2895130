@@ -1,9 +1,10 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# React: Design Patterns
+This is the repository for the LinkedIn Learning course React: Design Patterns. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![React: Design Patterns][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+If you’ve learned the basics of React and have worked on many React applications, chances are you’ve run into some recurring problems and situations, like creating reusable layouts or working with forms. If you’ve been on the hunt for solutions to common problems, look no further than this course with Shaun Wassell, where he covers many of the most useful design patterns—effective and repeatable solutions to common application development challenges. This course consists of several sections, each of which will cover a group of React design patterns, ranging from preferred syntax for specific tasks to how to arrange components in the most effective way. Among the topics Shaun covers are composition, higher-order components, state hoisting, controlled vs. uncontrolled components, and many other patterns that help a React app develop into a well-organized codebase.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -29,8 +30,15 @@ To resolve this issue:
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Shaun Wassell 
+                            
 
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/shaun-wassell).
+
+[lil-course-url]: https://www.linkedin.com/learning/react-design-patterns
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2895130/2895130-1632416406408-16x9.jpg
