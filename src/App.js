@@ -1,6 +1,12 @@
+import { UserInfo } from "./UserInfo";
+import { UserLoader } from "./UserLoader";
+	
+
 function App() {
 	return (
-		<h1>Your code goes here</h1>
+		<UserLoader userId = '123'>
+			<UserInfo />
+		</UserLoader>
 	);
 }
 
